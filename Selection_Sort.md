@@ -1,6 +1,6 @@
 ## Selection-Sort
-#### Proje-Insertion-Sort
-### Soru-1:
+### Proje-Insertion-Sort
+#### Soru-1:
 [22,27,16,2,18,6] => n
 * Asama-1 = [2,27,16,22,18,6] => n -1
 * Asama-2 = [2,27,16,22,18,6] => n -2
