@@ -1,2 +1,2 @@
-# patika-algorithms-Selection-Sort
+# Selection-Sort
 Proje-Insertion-Sort
