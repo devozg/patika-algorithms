@@ -9,12 +9,12 @@
 
 * Big-O Notation = n + (n-1) + (n-2) + 1 = O(n^2)
 
-### Soru-2:
+#### Soru-2:
 * 18 sayisi Average case kapsamina girer.
 
 <b>
 
-### Soru-3:
+#### Soru-3:
 
 [7,3,5,8,2,9,4,15,6]
 * [2,3,5,8,7,9,4,15,6]
